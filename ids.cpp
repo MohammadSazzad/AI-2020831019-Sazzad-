@@ -73,3 +73,18 @@ int32_t main() {
 
     return 0;
 }
+
+/*
+4
+1 2
+1 3
+2 3
+2 4
+1
+4
+3
+Searching with depth limit: 0
+Searching with depth limit: 1
+Searching with depth limit: 2
+Goal is found at depth: 2
+Goal is found within maximum depth.*/
